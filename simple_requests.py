@@ -1,7 +1,7 @@
 import requests
 
 KERAS_REST_API_URL = "http://localhost:5000/predict"
-IMAGE_PATH = "puffin.jpg"
+IMAGE_PATH = "retriever02.jpg"
 
 image = open(IMAGE_PATH, "rb").read()
 payload = {"image": image}
