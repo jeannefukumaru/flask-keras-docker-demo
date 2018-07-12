@@ -27,4 +27,4 @@ The next thing to do after containerizing our app would be to monitor it in prod
 
 These cover topics like building Runtime Graphs, A/B testing, Multi-Arm Bandits, Feature Normalisation, Concept Drift and Low-latency serving. 
 
-**this information is up-to-date as of 10th July 2018**
+*this information is up-to-date as of 10th July 2018*
